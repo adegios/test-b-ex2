@@ -1,0 +1,17 @@
+# This file is auto-generated during the composer install
+parameters:
+    database_host: 127.0.0.1
+    database_port: null
+    database_name: bapex2
+    database_user: bapex2
+    database_password: Khmav5Fl06go51PA
+    mailer_transport: smtp
+    mailer_host: 127.0.0.1
+    mailer_user: null
+    mailer_password: null
+    secret: ThisTokenIsNotSoSecretChangeItBeforeUseIt36542145
+    redis:
+        host: '127.0.0.1'
+        port: '6379'
+        username: ''
+        password: ''
